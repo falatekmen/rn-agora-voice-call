@@ -1,0 +1,27 @@
+{
+  "name": "rn-agora-voice-call",
+  "version": "1.0.3",
+  "description": "React Native Voice Call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falatekmen/rn-agora-voice-call.git"
+  },
+  "keywords": [
+    "react-native",
+    "voice",
+    "call",
+    "agora",
+    "videosdk",
+    "rn"
+  ],
+  "author": "falat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falatekmen/rn-agora-voice-call/issues"
+  },
+  "homepage": "https://github.com/falatekmen/rn-agora-voice-call#readme"
+}
