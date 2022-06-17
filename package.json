@@ -1,6 +1,6 @@
 {
   "name": "rn-agora-voice-call",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native Voice Call",
   "main": "index.js",
   "scripts": {
